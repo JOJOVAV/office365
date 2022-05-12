@@ -52,7 +52,7 @@ You get a new comparison but now there is a button next to buy
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168077692-64916695-a1e6-4936-a06d-ab2e89890760.png)
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168078867-b520715e-7ece-4c47-a1f0-6d24622b0cec.png)  
 
-You now have active subscription on your free trial  
+You now have active subscription on your free trial :smile:  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168080432-d5a83d8f-c938-4b4c-a193-9584690889ab.png)  
 
 # !!don't forget to remove your card if you don't want to be charged for next month after your trial!!  
