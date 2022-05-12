@@ -9,17 +9,17 @@ tutorial on how to setup free trial office 365 from microsoft!
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168062026-408e1592-8383-4b60-ba50-2f2c938807c7.png)  
 This is the screen that you will get if you **don't** have an account  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168063322-6d737fa3-e1a2-49f5-8817-67f333f657c6.png)  
-4. Fill in your information
+4. Fill in your information  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168065179-8ee413fa-22a2-4053-a30d-5e6514ec23a2.png)  
 5. Make sure you have  your phone number filled in for verification
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168065559-82b056ac-4596-4215-a151-809088d07872.png)  
 6. After your sms/phone verification fill in your new "login" information
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168066385-11382a97-2226-47fa-a6ec-82d7095c6c8d.png)  
-7. Put in the quanity you like and press the blue button **add payment method**
+7. Put in the quanity you like and press the blue **add payment method** button
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168066679-60490c43-d1cc-4975-b596-4670bcd94c85.png)  
-8. Add your information of your credit card in
+8. Add your information of your credit card in  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168067024-23f4c952-7993-4ddd-91c3-13a94c9166eb.png)  
-9. Review your information and edit if necessary, if everthing is filled correct press the blue button **start trial**
+9. Review your information and edit if necessary, if everthing is filled correct press the blue **start trial** button
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168068077-1b90c1a6-b3b2-4257-b84e-8ffa8d1f5fed.png)  
 9.1. Make sure to read the little text so that you won't be charched for something you don't want
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168069687-a137bc1b-0f5f-4240-8990-6a3657d070ae.png)  
@@ -38,17 +38,17 @@ Now we are going to get some applications
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168075674-3851830a-8570-4545-87fe-6a0bbdf91eae.png)  
 Press the compare button  
 5. Now you can compare if you are still unsure about the different products, if you are ready choose Details  
-![afbeelding](https://user-images.githubusercontent.com/30397019/168075897-79bd1677-2cbe-4986-b517-c45ee4dd8dbb.png)
+![afbeelding](https://user-images.githubusercontent.com/30397019/168075897-79bd1677-2cbe-4986-b517-c45ee4dd8dbb.png)  
 Now depending on your choice  you get a new comparrison
 6. Press details on one of the other products
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168076522-0dc28ba5-9d25-4b27-888a-e274dd5a8bf1.png)  
 You get a new comparison but now there is a button next to buy  
 7. Select free trial  
-![afbeelding](https://user-images.githubusercontent.com/30397019/168076883-c5e76023-af35-41c7-afb1-3353f5c213ea.png)
+![afbeelding](https://user-images.githubusercontent.com/30397019/168076883-c5e76023-af35-41c7-afb1-3353f5c213ea.png)  
 8. Choose your landmark and type in your phone number after you are done choose call me (text me always result in a wrong code) after putting in start free trial  
-![afbeelding](https://user-images.githubusercontent.com/30397019/168077324-d9f4bc60-d4c5-45a0-b58b-c2428c4bac3d.png)
+![afbeelding](https://user-images.githubusercontent.com/30397019/168077324-d9f4bc60-d4c5-45a0-b58b-c2428c4bac3d.png)  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168077616-7a27c954-a6f6-4dc1-9574-8903ca20f2f3.png)  
-7. Confirm and continue  
+9. Confirm and continue  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168077692-64916695-a1e6-4936-a06d-ab2e89890760.png)
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168078867-b520715e-7ece-4c47-a1f0-6d24622b0cec.png)  
 
