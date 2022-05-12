@@ -1,15 +1,15 @@
-# office365
+# Office 365 
 tutorial on how to setup free trial office 365 from microsoft!
 
 ## Sign up in office 365  
 1.Go to [this website here](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial) for registration
-2. Click the **Big Blue** button  
+2. Click the **Big Blue** button
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168060480-38b8cb16-4857-465d-bc1b-1c236f9d3f06.png)  
 3. Microsoft will give the following screen. If you have an existing account you can enter your mail if not, it will make one automaticly for you
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168062026-408e1592-8383-4b60-ba50-2f2c938807c7.png)  
 This is the screen that you will get if you **don't** have an account  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168063322-6d737fa3-e1a2-49f5-8817-67f333f657c6.png)  
-4. Fill in your information  
+4. Fill in your information
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168065179-8ee413fa-22a2-4053-a30d-5e6514ec23a2.png)  
 5. Make sure you have  your phone number filled in for verification
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168065559-82b056ac-4596-4215-a151-809088d07872.png)  
