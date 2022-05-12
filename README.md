@@ -25,3 +25,35 @@ tutorial on how to setup free trial office 365 from microsoft!
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168069687-a137bc1b-0f5f-4240-8990-6a3657d070ae.png)  
 10. depending on your card/bank/country you may get a prompt for paying.
 
+## License and applications
+1. Go to [admin.microsoft.com](https://admin.microsoft.com/)  
+You see now the homepage can be empty or can have some tiles in it. You can customize this to your needs. If you like some more Cards press the button add cards. (If you like to change your theme to darkmode press the dark mode button)  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168074007-46c938d6-96a8-4056-856e-91a8e3d25915.png)  
+Now we are going to get some applications
+2. Press on the left side of the screen the button Billing  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168074994-396173d1-6ffe-4833-a685-02615aeeed76.png)  
+3. press Purchase services
+4. Now compare maximum 3 services. (If you already know what service you like to get, check your service on compare and a random other product to "compare")  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168075327-46f0bc09-145a-4116-8d5b-9d9b17be36ea.png)  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168075674-3851830a-8570-4545-87fe-6a0bbdf91eae.png)  
+Press the compare button  
+5. Now you can compare if you are still unsure about the different products, if you are ready choose Details  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168075897-79bd1677-2cbe-4986-b517-c45ee4dd8dbb.png)
+Now depending on your choice  you get a new comparrison
+6. Press details on one of the other products
+![afbeelding](https://user-images.githubusercontent.com/30397019/168076522-0dc28ba5-9d25-4b27-888a-e274dd5a8bf1.png)  
+You get a new comparison but now there is a button next to buy  
+7. Select free trial  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168076883-c5e76023-af35-41c7-afb1-3353f5c213ea.png)
+8. Choose your landmark and type in your phone number after you are done choose call me (text me always result in a wrong code)  after putting in start free trial
+![afbeelding](https://user-images.githubusercontent.com/30397019/168077324-d9f4bc60-d4c5-45a0-b58b-c2428c4bac3d.png)  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168077616-7a27c954-a6f6-4dc1-9574-8903ca20f2f3.png)  
+7. Confirm and continue  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168077692-64916695-a1e6-4936-a06d-ab2e89890760.png)
+
+![afbeelding](https://user-images.githubusercontent.com/30397019/168078867-b520715e-7ece-4c47-a1f0-6d24622b0cec.png)  
+
+You now have active subscription on your free trial  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168080432-d5a83d8f-c938-4b4c-a193-9584690889ab.png)  
+
+# !!don't forget to remove your card if you don't want to be charged for next month after your trial!!  
