@@ -45,12 +45,11 @@ Now depending on your choice  you get a new comparrison
 You get a new comparison but now there is a button next to buy  
 7. Select free trial  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168076883-c5e76023-af35-41c7-afb1-3353f5c213ea.png)
-8. Choose your landmark and type in your phone number after you are done choose call me (text me always result in a wrong code)  after putting in start free trial
-![afbeelding](https://user-images.githubusercontent.com/30397019/168077324-d9f4bc60-d4c5-45a0-b58b-c2428c4bac3d.png)  
+8. Choose your landmark and type in your phone number after you are done choose call me (text me always result in a wrong code) after putting in start free trial  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168077324-d9f4bc60-d4c5-45a0-b58b-c2428c4bac3d.png)
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168077616-7a27c954-a6f6-4dc1-9574-8903ca20f2f3.png)  
 7. Confirm and continue  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168077692-64916695-a1e6-4936-a06d-ab2e89890760.png)
-
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168078867-b520715e-7ece-4c47-a1f0-6d24622b0cec.png)  
 
 You now have active subscription on your free trial  
