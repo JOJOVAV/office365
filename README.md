@@ -1,6 +1,10 @@
 # Office 365 
 tutorial on how to setup free trial office 365 from microsoft!
 
+## Content table
+1. [Sign up in office 365](#Sign-up-in-office-365)
+2. [License and applications](#License-and-applications)
+
 ## Sign up in office 365  
 1.Go to [this website here](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial) for registration
 2. Click the **Big Blue** button
