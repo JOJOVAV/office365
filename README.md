@@ -60,3 +60,10 @@ You now have active subscription on your free trial :smile:
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168080432-d5a83d8f-c938-4b4c-a193-9584690889ab.png)  
 
 # !!don't forget to remove your card if you don't want to be charged for next month after your trial!!  
+
+## Basic setup Azure and GPO
+
+
+
+
+
