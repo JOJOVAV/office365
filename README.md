@@ -142,7 +142,7 @@ Press the long balk or blue button
 8. Wait be patient it will take little while for uploading and after upload start machine it will also take a little while to install it  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168593288-e4f087d5-fe65-4c61-8e18-690f20339cf7.png)  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168593791-d332c984-ada8-4775-b941-9c216d318163.png)  
-
+After a while you get a shortcut on desktop
 
 
 
