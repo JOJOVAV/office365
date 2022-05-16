@@ -67,7 +67,8 @@ You now have active subscription on your free trial
 
 ## Basic setup Azure and GPO
 ### Add users and setup vm
-1. First things first, add your own domain in settings -> domains if you already have one or if you want a custom domain then you can buy one. I am going to use this microsoft default one instead of my own.  
+1. First things first, add your own domain in settings -> domains if you already have one or if you want a custom domain then you can buy one.  
+I am going to use this microsoft default one instead of my own.  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168541087-343a8cd8-5ea7-46e4-bd95-989e78b3f873.png)  
 2. Now we are going to add some new users, we have different options in here. Go to Users -> Active users. You can now choose to do each individual by pressing add a user or you can add them in bulk by pressing add multiple users at once.  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168543480-14a2df8a-6afc-4d61-9656-438d22fb0e80.png)  
@@ -94,11 +95,12 @@ Enter an e-mail address from your new domain.
 
 ### Groups Policy Object
 Now we are going to edit some basic policys in azure.
-1. Go to Endpoint manager  and login.
+1. Go to Endpoint manager  and login.  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168565085-c8705a0f-bee1-4af4-a3f8-dfdcab04b3d0.png)  
 Now you have lots of options for different settings.  
 2. Press Devices.  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168566753-7666b2b0-2e89-463b-9dd4-451fb3d6ba2d.png)  
+
 3. Press configuration devices  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168567065-72c8cdbc-3071-4726-b520-87ea49569207.png)  
 And then you can create a profile for your policy  
