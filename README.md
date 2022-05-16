@@ -7,6 +7,7 @@ tutorial on how to setup free trial office 365 from microsoft!
 3. [Basic setup Azure and GPO](#basic-setup-azure-and-gpo)
     1. 3.1 [Add users and make vm](#add-users-and-setup-vm)
     2. 3.2 [Groups Policy Object](#groups-policy-object)
+    3. 3.3 [Install programs via Azure AD(Intunes) on windows](#install-programs-via-azure-adintunes-on-windows)
 
 ## Sign up in office 365  
 1.Go to [this website here](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial) for registration
@@ -110,14 +111,37 @@ Qua profile type it depends on what you are changing choose one of the 2(I choos
 6. Press add settings and on the right choose what settings you like to use. (I choose Microsoft Edge -> startup, homepage, ...)  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168582367-62cb08eb-d2a2-4a0e-9432-a9f43af43b0b.png)  
 The settings I choose are:  
-    -Action to take on startup  
+    -Action to take on startup   
     -Configure the home page URL  
-    -Sites to open when the browser starts  
+    -Set the new tab page as the home page  
 7. Press next  
 8. choose your groups and/or users and/or devices  
 9. Press next 2 times  
 10. review and then create and in theory it should work  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168583792-b4455904-ec2f-4fcb-878a-9ac9e2ed73b3.png)  
+After each change restart machine and if doesn't work try to play with the settings until it works.
+
+### Install programs via Azure AD(Intunes) On windows
+We are going to install some basic programs
+1. download the apps you like to install in the msi extension
+2. Now you need to go to the portal and select apps and select windows and then press the add button 
+![afbeelding](https://user-images.githubusercontent.com/30397019/168591195-2c59150a-2420-45b6-868c-71f618844e4d.png)  
+If you have extern programs like chrome or firefox with the msi extension then choose Line-of-business app
+3. choose your settings qua preference of the app(I am going to install vlc so I choose Line-of-business app)  
+press select to go further
+4. Select the app package file button and choose the application where you downloaded your app  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168592221-f3f7cdef-1518-48b2-ad9c-b4d7e0abb1c3.png)  
+Press the long balk or blue button  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168592556-0f32becc-98c8-4642-877d-554545a64c2c.png)  
+5. Press ok and enter publisher name  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168592805-3470a0be-5de9-464b-a1b7-32018e7ea743.png)  
+6. Choose your groups and/or users and/or devices  
+7. press next and then review afer reviewing it press create.
+8. Wait be patient it will take little while for uploading and after upload start machine it will also take a little while to install it  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168593288-e4f087d5-fe65-4c61-8e18-690f20339cf7.png)  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168593791-d332c984-ada8-4775-b941-9c216d318163.png)  
+
+
 
 
 
