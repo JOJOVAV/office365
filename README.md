@@ -129,8 +129,7 @@ We are going to install some basic programs
 2. Now you need to go to the portal and select apps and select windows and then press the add button 
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168591195-2c59150a-2420-45b6-868c-71f618844e4d.png)  
 If you have extern programs like chrome or firefox with the msi extension then choose Line-of-business app
-3. choose your settings qua preference of the app(I am going to install vlc so I choose Line-of-business app)  
-press select to go further
+3. choose your settings qua preference of the app(I am going to install vlc so I choose Line-of-business app) press select to go further  
 4. Select the app package file button and choose the application where you downloaded your app  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168592221-f3f7cdef-1518-48b2-ad9c-b4d7e0abb1c3.png)  
 Press the long balk or blue button  
