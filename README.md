@@ -109,15 +109,16 @@ Qua profile type it depends on what you are changing choose one of the 2(I choos
 (I'm going to set homepage with custom url on edge, very handy for ex a company page.  
 6. Press add settings and on the right choose what settings you like to use. (I choose Microsoft Edge -> startup, homepage, ...)  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168582367-62cb08eb-d2a2-4a0e-9432-a9f43af43b0b.png)  
-The settings I choose are: 
-    -Action to take on startup
-    -Configure the home page URL
-    -Sites to open when the browser starts
+The settings I choose are:  
+    -Action to take on startup  
+    -Configure the home page URL  
+    -Sites to open when the browser starts  
 7. Press next  
 8. choose your groups and/or users and/or devices  
 9. Press next 2 times  
 10. review and then create and in theory it should work  
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168583792-b4455904-ec2f-4fcb-878a-9ac9e2ed73b3.png)  
+
 
 
 
