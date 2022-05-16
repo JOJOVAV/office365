@@ -105,3 +105,20 @@ configuration profiles
 choose your os
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168567708-898d2553-fd87-4149-898c-300624286832.png)
 
+![afbeelding](https://user-images.githubusercontent.com/30397019/168581796-490cc3a0-7dcb-4dd6-abe2-45d2da054235.png)
+
+![afbeelding](https://user-images.githubusercontent.com/30397019/168582367-62cb08eb-d2a2-4a0e-9432-a9f43af43b0b.png)
+
+new policy
+![afbeelding](https://user-images.githubusercontent.com/30397019/168583792-b4455904-ec2f-4fcb-878a-9ac9e2ed73b3.png)
+
+
+
+
+
+
+
+
+
+
+
