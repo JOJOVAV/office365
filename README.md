@@ -70,5 +70,27 @@ add domain
 add user
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168543480-14a2df8a-6afc-4d61-9656-438d22fb0e80.png)
 
+test account
+![afbeelding](https://user-images.githubusercontent.com/30397019/168547114-32a79d83-d259-4601-a446-e18562b3b20b.png)
+
+iso download
+![afbeelding](https://user-images.githubusercontent.com/30397019/168550769-a405ded9-110a-408b-9901-b42047f45a6f.png)
+
+account
+![afbeelding](https://user-images.githubusercontent.com/30397019/168555239-9688011c-5e6d-4414-9ae3-02405f78ac81.png)
+
+work account
+![afbeelding](https://user-images.githubusercontent.com/30397019/168555419-aad36957-b882-46a0-b0a8-f54b20e271d9.png)
+
+acces azure
+![afbeelding](https://user-images.githubusercontent.com/30397019/168555845-fb270749-6095-437a-9b15-8d463e6bc72a.png)
+
+Join domain
+![afbeelding](https://user-images.githubusercontent.com/30397019/168556565-f6e7d808-6250-4ca0-ba14-37760a6d52b6.png)
+
+good job
+![afbeelding](https://user-images.githubusercontent.com/30397019/168556850-01b5c8e4-7c0b-4f84-9f08-f79e37959f0d.png)
+
+
 
 
