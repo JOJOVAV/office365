@@ -90,6 +90,8 @@ Join domain
 
 good job
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168556850-01b5c8e4-7c0b-4f84-9f08-f79e37959f0d.png)
+Check account
+![afbeelding](https://user-images.githubusercontent.com/30397019/168562445-1ea4ed8a-f9f3-4e25-b767-b606b122cea9.png)
 
 
 
