@@ -93,6 +93,15 @@ good job
 Check account
 ![afbeelding](https://user-images.githubusercontent.com/30397019/168562445-1ea4ed8a-f9f3-4e25-b767-b606b122cea9.png)
 
+endpoint manager
+![afbeelding](https://user-images.githubusercontent.com/30397019/168565085-c8705a0f-bee1-4af4-a3f8-dfdcab04b3d0.png)
 
+devices
+![afbeelding](https://user-images.githubusercontent.com/30397019/168566753-7666b2b0-2e89-463b-9dd4-451fb3d6ba2d.png)
 
+configuration profiles
+![afbeelding](https://user-images.githubusercontent.com/30397019/168567065-72c8cdbc-3071-4726-b520-87ea49569207.png)
+
+choose your os
+![afbeelding](https://user-images.githubusercontent.com/30397019/168567708-898d2553-fd87-4149-898c-300624286832.png)
 
