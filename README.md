@@ -4,6 +4,7 @@ tutorial on how to setup free trial office 365 from microsoft!
 ## Content table
 1. [Sign up in office 365](#Sign-up-in-office-365)
 2. [License and applications](#License-and-applications)
+3. [Basic setup Azure and GPO](#basic-setup-azure-and-gpo)
 
 ## Sign up in office 365  
 1.Go to [this website here](https://www.microsoft.com/en-us/microsoft-365/microsoft-365-business-standard-one-month-trial) for registration
@@ -63,7 +64,11 @@ You now have active subscription on your free trial :smile:
 
 ## Basic setup Azure and GPO
 
+add domain  
+![afbeelding](https://user-images.githubusercontent.com/30397019/168541087-343a8cd8-5ea7-46e4-bd95-989e78b3f873.png)
 
+add user
+![afbeelding](https://user-images.githubusercontent.com/30397019/168543480-14a2df8a-6afc-4d61-9656-438d22fb0e80.png)
 
 
 
